@@ -18,7 +18,7 @@ $artikels = $qArtikels->all();
     <?php foreach($artikels as $artikel): ?>
         <div class="row">
             <div class="col-md-12">
-                <h4 class="font-bold"><?=Html::a(strtoupper($artikel->title),['/site/view','id' => $artikel->id])?></h4>
+                <h4 class="font-bold"><?=Html::a(strtoupper($artikel->title),$artikel->permalink)?></h4>
                 <b><?=$artikel->prettyDate ?></b>
                 <?php if(empty($request->get('cat'))): ?>
                     on <?=$artikel->categoryObj->name ?>
@@ -31,7 +31,7 @@ $artikels = $qArtikels->all();
                 <?php endif; ?>
                
                     <?=StringHelper::truncateWords($artikel->content,100) ?>
-                    <?=Html::a(' <b><i>read more</i></b>',['/site/view','id' => $artikel->id])?>
+                    <?=Html::a(' <b><i>read more</i></b>',$artikel->permalink)?>
                 </p>
             </div>
         </div>

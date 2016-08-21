@@ -1,0 +1,49 @@
+[20-Aug-2016 10:02:32 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/blogbyke/public_html/wp-readme.php on line 9
+[20-Aug-2016 10:02:35 Asia/Jakarta] PHP Deprecated:  Function ereg_replace() is deprecated in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code on line 1
+[20-Aug-2016 10:02:35 Asia/Jakarta] PHP Notice:  Undefined variable: auth in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 6
+[20-Aug-2016 10:02:35 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_PW in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:02:35 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_USER in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:02:43 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/blogbyke/public_html/wp-readme.php on line 9
+[20-Aug-2016 10:02:43 Asia/Jakarta] PHP Deprecated:  Function ereg_replace() is deprecated in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code on line 1
+[20-Aug-2016 10:02:43 Asia/Jakarta] PHP Notice:  Undefined variable: auth in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 6
+[20-Aug-2016 10:02:43 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_PW in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:02:43 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_USER in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:02:52 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/blogbyke/public_html/wp-readme.php on line 9
+[20-Aug-2016 10:02:52 Asia/Jakarta] PHP Deprecated:  Function ereg_replace() is deprecated in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code on line 1
+[20-Aug-2016 10:02:52 Asia/Jakarta] PHP Notice:  Undefined variable: auth in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 6
+[20-Aug-2016 10:02:52 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_PW in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:02:52 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_USER in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:03:20 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/blogbyke/public_html/wp-readme.php on line 9
+[20-Aug-2016 10:03:20 Asia/Jakarta] PHP Deprecated:  Function ereg_replace() is deprecated in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code on line 1
+[20-Aug-2016 10:03:20 Asia/Jakarta] PHP Notice:  Undefined variable: auth in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 6
+[20-Aug-2016 10:03:20 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_PW in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:03:20 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_USER in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:03:30 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/blogbyke/public_html/wp-readme.php on line 9
+[20-Aug-2016 10:03:30 Asia/Jakarta] PHP Deprecated:  Function ereg_replace() is deprecated in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code on line 1
+[20-Aug-2016 10:03:30 Asia/Jakarta] PHP Notice:  Undefined variable: auth in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 6
+[20-Aug-2016 10:03:30 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_PW in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:03:30 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_USER in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:03:35 Asia/Jakarta] PHP Warning:  scandir(/var/named): failed to open dir: No such file or directory in /home/blogbyke/public_html/x0.php on line 30
+[20-Aug-2016 10:03:35 Asia/Jakarta] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/blogbyke/public_html/x0.php on line 30
+[20-Aug-2016 10:03:43 Asia/Jakarta] PHP Notice:  Undefined index: ajax in /home/blogbyke/public_html/conf.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(2) : eval()'d code on line 123
+[20-Aug-2016 10:03:46 Asia/Jakarta] PHP Deprecated:  Function eregi() is deprecated in /home/blogbyke/public_html/conf.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(2) : eval()'d code on line 125
+[20-Aug-2016 10:03:53 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/blogbyke/public_html/wp-readme.php on line 9
+[20-Aug-2016 10:03:53 Asia/Jakarta] PHP Deprecated:  Function ereg_replace() is deprecated in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code on line 1
+[20-Aug-2016 10:03:53 Asia/Jakarta] PHP Notice:  Undefined variable: auth in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 6
+[20-Aug-2016 10:03:53 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_PW in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:03:53 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_USER in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:37:27 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/blogbyke/public_html/wp-readme.php on line 9
+[20-Aug-2016 10:37:27 Asia/Jakarta] PHP Deprecated:  Function ereg_replace() is deprecated in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code on line 1
+[20-Aug-2016 10:37:27 Asia/Jakarta] PHP Notice:  Undefined variable: auth in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 6
+[20-Aug-2016 10:37:27 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_PW in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:37:27 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_USER in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:37:44 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/blogbyke/public_html/wp-readme.php on line 9
+[20-Aug-2016 10:37:44 Asia/Jakarta] PHP Deprecated:  Function ereg_replace() is deprecated in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code on line 1
+[20-Aug-2016 10:37:44 Asia/Jakarta] PHP Notice:  Undefined variable: auth in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 6
+[20-Aug-2016 10:37:44 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_PW in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:37:44 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_USER in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:38:55 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/blogbyke/public_html/wp-readme.php on line 9
+[20-Aug-2016 10:38:55 Asia/Jakarta] PHP Deprecated:  Function ereg_replace() is deprecated in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code on line 1
+[20-Aug-2016 10:38:55 Asia/Jakarta] PHP Notice:  Undefined variable: auth in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 6
+[20-Aug-2016 10:38:55 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_PW in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17
+[20-Aug-2016 10:38:55 Asia/Jakarta] PHP Notice:  Undefined index: PHP_AUTH_USER in /home/blogbyke/public_html/wp-readme.php(23) : eval()'d code(1) : eval()'d code on line 17

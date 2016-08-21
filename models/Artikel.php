@@ -3,6 +3,7 @@
 namespace app\models;
 
 use Yii;
+use yii\helpers\Url;
 
 /**
  * This is the model class for table "artikel".
@@ -85,5 +86,11 @@ class Artikel extends \yii\db\ActiveRecord
 
     public function getCountImg(){
         return $this->hasMany(ImagePost::className(), ['artikel_id' => 'id'])->count();   
+    }
+
+    public function getPermalink(){
+        $lcTitle = strtolower(trim($this->title));
+        $filtered = preg_replace('/[^\da-z]/i', '-', $lcTitle);
+        return Url::to(['/site/view','id' => $this->id,'title' => $filtered]);
     }
 }
